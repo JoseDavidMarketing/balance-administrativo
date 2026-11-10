@@ -1,0 +1,13 @@
+BALANCE ADMINISTRATIVO – SITIO WEB ACTUALIZADO
+
+Archivos incluidos:
+- index.html: página principal con el logotipo ampliado, títulos más legibles, Conócenos en azul y enlace al blog.
+- blog.html: página independiente de artículos.
+- assets/logo-balance-administrativo.jpg: logotipo original.
+
+Para probar:
+1. Descomprima el paquete completo.
+2. Mantenga index.html, blog.html y la carpeta assets juntos.
+3. Abra index.html en Chrome y seleccione Blog en el menú.
+
+Las fotografías se cargan desde Internet. Los artículos son textos introductorios que deben revisarse y ampliarse antes de publicar. El formulario/los botones de contacto dirigen a WhatsApp +506 6111-9094. El correo aún está pendiente y el dominio no se registra desde estos archivos.
